@@ -1,0 +1,8 @@
+.featured-section{
+    background-color: var(--primary-color);
+}
+.featured-posts{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 3rem
+}
