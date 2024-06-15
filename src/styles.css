@@ -1,11 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
 :root{
     --primary-color: #026467 !important;
     --secondary-color:  #C6CAD2;
     --body-text-color: #596392;
     --navbar-footer-color: #f9f9f9;
-
 }
 
 body{
