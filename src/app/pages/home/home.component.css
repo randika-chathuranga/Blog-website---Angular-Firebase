@@ -1,7 +1,7 @@
 .featured-section{
     background-color: var(--primary-color);
 }
-.featured-posts{
+.featured-posts, .latest-posts{
     display: flex;
     flex-direction: row;
     padding-bottom: 3rem
